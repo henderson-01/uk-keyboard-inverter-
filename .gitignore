@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Shell history or temp files
+*.swp
+*~
+*.log
+
+# If you ever use a local build folder instead of /tmp
+/keyd/
