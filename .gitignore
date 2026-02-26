@@ -1,11 +1,24 @@
-# System files
+# OS Metadata
 .DS_Store
-Thumbs.db
+[Tt]humbs.db
+.directory
 
-# Shell history or temp files
+# Editor & Temp files
 *.swp
 *~
 *.log
+*.tmp
 
-# If you ever use a local build folder instead of /tmp
+# Shell/Terminal artifacts
+.bash_history
+.zsh_history
+
+# Build & System specific
 /keyd/
+build/
+bin/
+obj/
+
+# Safety: Don't push any local backup files scripts might create
+*.bak
+*.old
