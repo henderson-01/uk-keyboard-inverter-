@@ -92,7 +92,7 @@ sudo systemctl restart keyd
 
 ---
 
-## ⚠️ Important: The "Login Lockout" Warning
+## 👀 Important: The "Login Lockout" Warning
 
 Because this script operates at the hardware level, it is **active on the Ubuntu Login Screen.**
 
@@ -100,7 +100,7 @@ Because this script operates at the hardware level, it is **active on the Ubuntu
 * **Symbols in Passwords:** You no longer need to hold Shift for symbols (e.g., for `!`, just press the `1` key).
 
 ---
-## Disclaimer
+## ⚠️ Disclaimer
 
-This project is provided "as-is" without any warranty of any kind. I am not responsible for any issues, data loss, or "explosions" (code-related or otherwise) that may occur from using this software. 
+This project is provided "as-is" without any warranty of any kind. I am not responsible for any issues, data loss, or (Script-related or otherwise) that may occur from using this Software or Information. 
 **Use it at your own risk.**
