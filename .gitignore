@@ -5,6 +5,7 @@
 
 # Editor & Temp files
 *.swp
+*.save
 *~
 *.log
 *.tmp
