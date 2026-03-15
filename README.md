@@ -51,7 +51,6 @@ The installer automatically handles dependencies. **Ensure you have an active in
 2. Run the following command:
 ```bash
 chmod +x install.sh && sudo ./install.sh
-
 ```
 
 
@@ -66,7 +65,6 @@ To revert your keyboard to factory standards:
 2. Run the following command:
 ```bash
 chmod +x uninstall.sh && sudo ./uninstall.sh
-
 ```
 
 
@@ -82,7 +80,6 @@ If you plug in a new keyboard while the computer is already on and the inversion
 
 ```bash
 sudo systemctl restart keyd
-
 ```
 
 ### **Quick Toggle**
