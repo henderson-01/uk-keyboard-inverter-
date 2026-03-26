@@ -14,9 +14,9 @@ This tool inverts the primary function of the number row and specific symbol key
 
 This script is designed to be **hardware-agnostic**. Because it interacts with the Linux kernel's input layer, it provides a consistent experience across different devices:
 
-* **Laptops:** Works with built-in internal keyboards (Lenovo, etc.) 
+* **Laptops:** Works with built-in internal keyboards (Lenovo, etc.)
 * **Desktops:** Works with standard UK ISO keyboards.
-* **The Golden Rule:** This script will work as long as it is a **Standard UK ISO Keyboard** 
+* **The Golden Rule:** This script will work as long as it is a **Standard UK ISO Keyboard**
 
 > [!TIP]
 > Make sure that your keyboard **System Setting** on your Desktop/Laptop are on the **English (UK)** layout, and having a **standard UK keyboard** as this is how i am testing and running on my own laptop and desktop.
@@ -49,11 +49,10 @@ The installer automatically handles dependencies. **Ensure you have an active in
 
 1. Open the project folder in the Terminal, Just right click on the folder and open with terminal.
 2. Run the following command:
+
 ```bash
 chmod +x install.sh && sudo ./install.sh
 ```
-
-
 
 ---
 
@@ -63,10 +62,10 @@ To revert your keyboard to factory standards:
 
 1. Open the project folder in the Terminal, Just right click on the folder and open with terminal.
 2. Run the following command:
+
 ```bash
 chmod +x uninstall.sh && sudo ./uninstall.sh
 ```
-
 
 *Note: You will be asked if you want to keep the `keyd` software on your system or remove it entirely.*
 
@@ -97,7 +96,8 @@ Because this script operates at the hardware level, it is **active on the Ubuntu
 * **Symbols in Passwords:** You no longer need to hold Shift for symbols (e.g., for `!`, just press the `1` key).
 
 ---
+
 ## ⚠️ Disclaimer
 
-This project is provided "as-is" without any warranty of any kind. I am not responsible for any issues, data loss, or (Script-related or otherwise) that may occur from using this Software or Information. 
+This project is provided "as-is" without any warranty of any kind. I am not responsible for any issues, data loss, or (Script-related or otherwise) that may occur from using this Software or Information.
 **Use it at your own risk.**
