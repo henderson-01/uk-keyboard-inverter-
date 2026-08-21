@@ -1,3 +1,5 @@
+*Notice: This repository is no longer actively maintained and may contain outdated code or dependencies.*
+
 # 🇬🇧 Ubuntu UK Keyboard Inverter
 
 **Version:** 1.0
